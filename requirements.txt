@@ -1,0 +1,46 @@
+# Core MCP and LLM dependencies
+fastmcp
+groq
+mcp
+
+# Database drivers
+pymongo
+neo4j
+redis
+happybase
+rdflib
+SPARQLWrapper
+
+# Async and HTTP
+aiohttp
+httpx
+asyncio-mqtt
+
+# Data validation and configuration
+pydantic
+pydantic-settings
+python-dotenv
+
+# Testing
+pytest
+pytest-asyncio
+pytest-cov
+pytest-mock
+
+# CLI and UI
+click
+rich
+tabulate
+
+# Data processing and export
+pandas
+openpyxl
+
+# Logging and monitoring
+structlog
+colorlog
+
+# Utilities
+requests
+python-dateutil
+pytz
