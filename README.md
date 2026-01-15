@@ -627,7 +627,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 <div align="center">
 
-**Built with ❤️ using Python, Streamlit, and LLMs**
+**Built with Python, Streamlit, and LLMs**
 
 [⭐ Star this repo](https://github.com/yourusername/LLM-Assisted_Query_Generation) if you find it useful!
 
